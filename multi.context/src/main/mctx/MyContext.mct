@@ -1,7 +1,5 @@
 /**
 **/
 public context MyContext {
-    String myHandler(){
 
-    }
 }
